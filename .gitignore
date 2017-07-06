@@ -1,8 +1,7 @@
-dist
+t
 .project_env.rc
 .path_progress
 .rvmrc
 .ruby-version
 *.rbc
-koans/*
 *~
